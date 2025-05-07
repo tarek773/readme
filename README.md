@@ -1,7 +1,7 @@
 
 # 🎬 Movie Recommendation System – MovieLens Dataset
 
-![Recommendation System Architecture](images/recommendation_system.png)
+![Recommendation System Architecture](recommendation_system.png)
 
 ## 🔍 Overview
 In today's streaming era, users face decision fatigue when choosing what to watch. This project addresses that challenge by building an **intelligent movie recommendation system** based on the [MovieLens 20M Dataset](https://grouplens.org/datasets/movielens/20m/). The system applies **collaborative filtering**, **content-based filtering**, and **hybrid models** to provide relevant and personalized movie recommendations.
